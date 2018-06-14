@@ -1,0 +1,57 @@
+body {
+    background-color: #cccc;
+}
+
+
+h1{
+    font-family: 'Arial';
+    color: black;
+    line-height: 40px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h2{
+    font-family: 'Arial';
+    color: black;
+    line-height: 40px;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+p {
+    font-size: 18px;
+    color:black;
+    margin-bottom: 15px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#crystals {
+    position: relative;
+
+}
+
+img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-bottom: 8px; */
+
+}
+
