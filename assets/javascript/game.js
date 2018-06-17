@@ -58,6 +58,7 @@ function result() {
     }
     else if (yourScore > computerScore) {
         losses++;
+        random();
         computerScore = randomNumber;
         yourScore = 0;
         $("#losses").text("Loses: "+ losses);
